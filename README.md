@@ -1,5 +1,7 @@
 # 28-宠物医院管理系统
 
+[文档地址](http://wechat.zjrcsy.cn/)
+
 #### 介绍
 技术：
 基于 B/S 架构 SpringBoot+MySQL+vue+elementui
@@ -97,4 +99,4 @@ node
 
 ![1212121212](https://yunzhuceshi.oss-cn-beijing.aliyuncs.com/typoraImg/1212121212.jpg)
 
-xv:  MaKaBaca0
+[文档地址](http://wechat.zjrcsy.cn/)
